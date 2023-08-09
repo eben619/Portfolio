@@ -97,8 +97,8 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(var(--color-brand);
-}, #022a30);
+        background: linear-gradient(#deff58,#022a30);
+    };
         background-size: cover;
         background-position: center;
     }
