@@ -86,11 +86,11 @@ img {
 }
 
 .navbar .nav-link:hover {
-    color: var(--color-brand);
+    color: rgba(238, 120, 41, 0.8);
 }
 
 .navbar .nav-link.active {
-    color: var(--color-brand);
+    color: rgba(238, 120, 41, 0.8);
 }
 
 @media (min-width: 992px) {
