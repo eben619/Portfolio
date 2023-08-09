@@ -107,7 +107,7 @@ img {
     }
 
     .navbar-brand img {
-        border: 8px solid var(--color-brand);
+        border: 8px solid rgba(238, 120, 41, 0.8);
     }
 
     /* CONTENT WRAPPER */
