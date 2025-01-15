@@ -98,11 +98,12 @@ img {
         min-height: 100vh;
         width: var(--sidbar-width);
         background: linear-gradient(#deff58,#022a30);
-    };
+    }
+    .navbar {
         background-size: cover;
         background-position: center;
     }
-    .iam{
+    .iam {
         color: rgba(238, 120, 41, 0.8);
     }
 
@@ -113,6 +114,7 @@ img {
     /* CONTENT WRAPPER */
     #content-wrapper {
         padding-left: var(--sidbar-width);
+        margin-right: 20px; /* Added margin to prevent overlap */
     }
 }
 
@@ -189,9 +191,6 @@ img {
 }
 
 /* SOCIAL ICONS */
-.social-icons {
-
-}
 
 .social-icons a {
     width: 40px;
